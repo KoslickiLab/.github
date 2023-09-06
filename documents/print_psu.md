@@ -1,24 +1,24 @@
 ## Print Posters at PSU
 
-Use the PSU print service (so you don't need to use your own credit card). They do fabric, are quite quick and quality is good.
-
+Use the PSU print service for posters. They do fabric, are quite quick and quality is good.
 
 
 Please feel free to edit this document after having done a print job : )
 
+</br>
 
 
-### Information
+### How
 
 ---
 
-[PSU print portal](https://www.psuprints.psu.edu/): use your PSU account to login to the print portal. You may need to input your information at first login. I'm not clear which payment method should we specify now (you may ask Dr. Koslicki before putting print orders). More information about PSU print:
+[PSU print portal](https://www.psuprints.psu.edu/): login with your PSU account and follow instructions. I'm not clear which payment method should we specify now (you may ask Dr. Koslicki before putting print orders). More information about PSU print:
 
 1. Go to PSU [Multimedia & Print Center](https://multimediaprint.psu.edu/)
 2. Click the `PSU Prints` tab on top of the webpage: it will guide you to the print portal (use PSU account to login)
 
 
-
+</br>
 
 
 ### Instructions
