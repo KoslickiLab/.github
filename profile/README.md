@@ -5,6 +5,7 @@ The Koslicki lab focuses on computational biology. We are interested in developi
 ### Resources
 1. [Contents in the shared_folder on the servers](https://github.com/KoslickiLab/.github/blob/main/documents/Readme_shared_folder.md) (KEGG, GTDB, etc.)
 2. [Koslicki Lab Google Drive](https://drive.google.com/drive/folders/1wnoPTbeqXmpv1XKJ2j79ZVTwh-mwkfaE?usp=share_link) (requires Dr. Koslicki adding you to it)
+3. [Print posters at PSU](https://github.com/KoslickiLab/.github/blob/main/documents/print_psu.md)
 </br>
 
 ### Thesis Q&A
