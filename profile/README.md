@@ -10,5 +10,6 @@ The Koslicki lab focuses on computational biology. We are interested in developi
 
 ### Thesis Q&A
 [Thesis information](https://github.com/KoslickiLab/.github/blob/main/documents/Thesis_information.md): Let's share resources/questions/tips here for reference
+
 [Commencement information](https://gradschool.psu.edu/completing-your-degree/graduate-school-commencement/)
 
